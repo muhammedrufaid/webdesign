@@ -1,0 +1,15 @@
+button{
+    background:green;
+    color: white;
+}
+
+#para1{
+    color:darkred;
+}
+#para2{
+    color:darkcyan;
+}
+.content{
+    color:lightblue;
+    background:lightcoral;
+}
